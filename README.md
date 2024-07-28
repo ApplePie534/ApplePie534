@@ -1,5 +1,3 @@
-Sure, here's a formatted version of your README for GitHub:
-
 ---
 
 # Question Generator Project
