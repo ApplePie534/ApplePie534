@@ -1,15 +1,28 @@
-# 💫 About Me:
-Hi! I'm a student pursuing iMTech in ECE from IIIT Bangalore.<br><br>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ApplePie534&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ApplePie534&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApplePie534&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sure, here's a formatted version of your README for GitHub:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ApplePie534&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Question Generator Project
+
+This project generates short answer questions and multiple-choice questions (MCQs) from a given context using the answer provided.
+
+## Files and Notebooks
+
+- **train.ipynb**: Contains the code for fine-tuning the T5 base model to generate questions.
+- **Load_model.ipynb**: Loads the trained model from the drive and uses it to generate short answer questions or MCQs, depending on the need. This notebook also utilizes Streamlit for deployment.
+
+## Instructions to Run the Project
+
+1. **Download the Trained Model**:
+   - Download the trained model and tokenizer and save them in your drive.
+
+2. **Load the Model**:
+   - Connect the notebook to your drive and load the model.
+
+3. **Ngrok Authentication**:
+   - Replace the ngrok authentication key with your token. (You need an ngrok account for this).
+
+4. **Run the Streamlit App**:
+   - Click on the generated URL to view the Streamlit app.
+
+---
