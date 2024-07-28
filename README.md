@@ -12,7 +12,7 @@ This project generates short answer questions and multiple-choice questions (MCQ
 ## Instructions to Run the Project
 
 1. **Download the Trained Model**:
-   - Download the trained model and tokenizer and save them in your drive.
+   - Download the trained model and tokenizer from [this Google Drive link](https://drive.google.com/drive/folders/11uzZVjyk8cZB12IFIJUMQ6JYc-VBm650?usp=drive_link) and save them in your drive.
 
 2. **Load the Model**:
    - Connect the notebook to your drive and load the model.
