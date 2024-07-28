@@ -18,7 +18,7 @@ This project generates short answer questions and multiple-choice questions (MCQ
    - Connect the notebook to your drive and load the model.
 
 3. **Ngrok Authentication**:
-   - Replace the ngrok authentication key with your token. (You need an ngrok account for this).
+   - Replace the ngrok authentication key with your token. (You need an [ngrok](https://ngrok.com/) account for this).
 
 4. **Run the Streamlit App**:
    - Click on the generated URL to view the Streamlit app.
